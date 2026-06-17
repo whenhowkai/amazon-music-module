@@ -3,7 +3,7 @@
     {
       "id": "amazon-music",
       "name": "Amazon Music",
-      "module": "https://raw.githubusercontent.com/whenhowkai/amazon-music-module/refs/heads/main/amazonmusic.js"
+      "url": "https://raw.githubusercontent.com/whenhowkai/amazon-music-module/main/amazonmusic.js"
     }
   ]
 }
