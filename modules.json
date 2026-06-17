@@ -1,0 +1,9 @@
+{
+    "category:music": [
+      {
+        "id": "amazon-music",
+        "name": "Amazon Music",
+        "url": "https://raw.githubusercontent.com/whenhowkai/amazon-music-module/main/amazonmusic.js"
+      }
+    ]
+  }
